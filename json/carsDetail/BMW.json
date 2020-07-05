@@ -1,0 +1,38 @@
+{
+    "title": "BMW car",
+    "description": "This BMW car is lightweight and beautiful car.",
+    "cars":[
+        {
+            "carId":1,
+            "carName": "BMW1",
+            "carImg":"img/BMW1.jpg",
+            "size":"1*1"
+        },{
+            "carId":5,
+            "carName": "BMW2",
+            "carImg":"img/BMW2.jpg",
+            "size":"2*2"
+        },{
+            "carId":8,
+            "carName": "BMW3",
+            "carImg":"img/BMW3.jpg",
+            "size":"3*3"
+        },
+        {
+            "carId":11,
+            "carName": "BMW4",
+            "carImg":"img/BMW4.jpg",
+            "size":"4*4"
+        },{
+            "carId":14,
+            "carName": "BMW5",
+            "carImg":"img/BMW5.jpg",
+            "size":"5*5"
+        },{
+            "carId":15,
+            "carName": "BMW6",
+            "carImg":"img/BMW6.jpg",
+            "size":"6*6"
+        }
+    ]
+}
